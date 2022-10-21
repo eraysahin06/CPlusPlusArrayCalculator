@@ -15,3 +15,5 @@ it has the ability to:
 1. display all values inside the new array
 2. search index by value
 3. search value by index
+
+<img src="https://i.ibb.co/6RMCPtc/Screenshot-2022-10-21-124206.jpg" alt="image" border="0">
