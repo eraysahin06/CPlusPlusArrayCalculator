@@ -10,7 +10,7 @@ It calculates:
 5. even values
 6. odd values
 
-it has the ability to:
+It has the ability to:
 
 1. display all values inside the new array
 2. search index by value
