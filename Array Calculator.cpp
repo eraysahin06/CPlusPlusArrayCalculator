@@ -1,7 +1,8 @@
 #include <iostream>
 using namespace std;
 
-int main() {
+int main()
+{
 	cout << "WELCOME TO THE ARRAY CALCULATOR." << endl;
 	const int indx = 5;
 	int num[indx];
@@ -105,4 +106,3 @@ int main() {
 	}
 	return 0;
 }
-
